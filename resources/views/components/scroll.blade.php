@@ -1,0 +1,1 @@
+<lottie-player src="https://assets4.lottiefiles.com/packages/lf20_jfchliut.json"  background="transparent"  speed="1" class="hidden lg:block right-0 bottom-0 absolute w-[300px] h-[300px]" loop autoplay></lottie-player>
